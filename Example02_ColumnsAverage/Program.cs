@@ -2,7 +2,6 @@
 int m = 4;
 int n = 5;
 int[,] array = new int[m, n];
-int[] sum = new int[n];
 
 void FillArray()
 {
