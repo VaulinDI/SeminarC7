@@ -16,7 +16,7 @@ void FillArray()
     }
 }
 
-void ColumnsAverage()
+void LineMinSum()
 {
     int min = int.MaxValue;
     int count = 0;
@@ -40,4 +40,4 @@ void ColumnsAverage()
 }
 
 FillArray();
-ColumnsAverage();
+LineMinSum();
